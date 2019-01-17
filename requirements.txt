@@ -1,0 +1,5 @@
+appJar==0.93.0
+Django==2.1.5
+djangorestframework==3.9.1
+Pygments==2.3.1
+pytz==2018.9
